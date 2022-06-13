@@ -27,6 +27,16 @@
 .App-link {
   color: #61dafb;
 }
+.listtodo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.deletebtn{
+  cursor: pointer;
+  margin-top: 4px;
+}
 
 @keyframes App-logo-spin {
   from {
